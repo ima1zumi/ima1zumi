@@ -1,0 +1,1 @@
+FJORD BOOT CAMPで学習中
