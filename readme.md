@@ -1,6 +1,7 @@
 ## :heart:
 - Ruby
-- Unicode
+- Character Encoding
+  - Unicode & Emoji 
 
 ## link
 - [Twitter](https://twitter.com/ima1zumi)
