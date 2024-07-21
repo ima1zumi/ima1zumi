@@ -1,10 +1,6 @@
-## :heart:
-- Ruby
-- Character Encoding
-  - Unicode & Emoji 
+Mari Imaizumi is IRB and Reline committer, currently working as a software engineer at STORES, Inc.
 
 ## 🔗
-- [Twitter](https://twitter.com/ima1zumi)
+- [X](https://x.com/ima1zumi)
 - [Blog](https://imaizumimr.hatenablog.com/)
 - [Speaker Deck](https://speakerdeck.com/ima1zumi)
-- [Scrapbox](https://scrapbox.io/ima1zumi/)
